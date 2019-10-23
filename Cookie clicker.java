@@ -3,6 +3,11 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+/ @Author BlacKkDreamZ | Yann
+*/
+
+
 public class CookieClicker extends JFrame {
     // non graphical variables
     private int cookies = 0;
