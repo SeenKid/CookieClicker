@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 /*
-/ @Author TweeKLG | Yann Berlemont
+/ Edited by TweeKLG | Yann Berlemont
 */
 
 
